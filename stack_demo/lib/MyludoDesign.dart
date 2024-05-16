@@ -206,6 +206,7 @@ class MyludoDesign extends StatelessWidget {
                                 ],
                               ),
                             )
+
                           ],
                         ),
                         margin: EdgeInsets.all(30),

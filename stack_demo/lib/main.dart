@@ -13,6 +13,6 @@ import 'calculator.dart';
 void main() {
   runApp(MaterialApp(debugShowCheckedModeBanner: false,
 
-    home: CalcyDesign(),
+    home: MyludoDesign(),
   ));
 }
